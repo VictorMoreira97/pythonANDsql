@@ -1,0 +1,7 @@
+.DS_store
+chromedriver
+mysql_206
+.env
+
+# Byte-compiled / optimized / DLL files
+__pychache__/
